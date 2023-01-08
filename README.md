@@ -6,7 +6,7 @@
   
   <div>
   	<a href="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?izabel-souza={izabel-souza}&theme=blue-green">
   </div>
   
 <div> 
