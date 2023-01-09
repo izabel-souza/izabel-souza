@@ -1,4 +1,4 @@
-# Hi 😎🖖
+# Hi 🖖
 I'm learning how to programme using C language.
 
 <div align="center">
