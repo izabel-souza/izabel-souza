@@ -1,5 +1,5 @@
 # Hi 🖖
-I'm learning how to programme using C language.
+I'm learning how to programme using C and Python languages.
 
 <div align="center">
   <a href="https://github.com/izabel-souza">
