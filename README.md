@@ -1,5 +1,5 @@
 # Hi 🖖
-I'm learning how to programme.
+I'm learning how to code.
 
 <div align="center">
   <a href="https://github.com/izabel-souza">
