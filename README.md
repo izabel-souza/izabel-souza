@@ -7,11 +7,7 @@ I'm learning how to programme.
     <img height= "125em" src="https://github-readme-stats-dusky-theta.vercel.app/api/top-langs/?username=izabel-souza&layout=compact&langs_count=168&theme=github_dark" />
 <div>
     <img height="30em" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </div>
-    <div>
   <img height="30em" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-    </div>
-    <div>
    <img height="30em" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </div>
 </div>
