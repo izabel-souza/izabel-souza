@@ -7,4 +7,5 @@ I'm learning to code.
   media="(prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=izabel-souza&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabel-souza&hide_progress=true)](https://github.com/izabel-souza/github-readme-stats) />
 </picture>
