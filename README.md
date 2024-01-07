@@ -1,5 +1,5 @@
 # Hi 🖖
-I'm currently learning Java and adventuring myself in SQL with MySQL.
+I'm currently learning Web Development, adventuring myself in SQL with MySQL and Excel.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=izabel-souza&theme=transparent" width=380vw />
