@@ -1,4 +1,7 @@
 # Salute 🖖
+
+<p>I'm currently enrolled in UFF majoring Informations System.</p>
+
 <p>I'm currently learning JavaScript, adventuring myself in SQL with MySQL and Excel with VBA.</p>
 <p>I'm aiming to work with AI in the future.</p>
 
