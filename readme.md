@@ -4,16 +4,16 @@
 
 <h4>Ferramentas que tenho conhecimento:</h4>
 
-![Vscode](image.png)
-![Python](image-1.png)
-![C](image-2.png)
-![Java](image-3.png)
+![VSCODE](image-13.png)
+![Python](image-14.png)
+![C](image-15.png)
+![Java](image-16.png)
 ![SQL](image-4.png)
-![MySQL](image-11.png)
-![Microsoft Office](image-7.png)
-![HTML](image-8.png)
-![CSS](image-9.png)
-![JavaScript](image-10.png)
+![MySQL](image-17.png)
+![Pacote Office 365](image-18.png)
+![HTML](image-21.png)
+![CSS](image-20.png)
+![JavaScript](image-22.png)
 
 **Contatos:**
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/izabel-soares-373b7125b)
