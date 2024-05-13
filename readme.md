@@ -1,5 +1,4 @@
 <h1>Oi, Meu nome é Izabel Soares.</h1>
-<h2>Uma ávida estudante da área de TI.</h2>
 <h2>Atualmente curso Sistemas de Informação na UFF - RJ.</h2>
 
 <h4>Ferramentas que tenho conhecimento:</h4>
@@ -16,6 +15,10 @@
 ![JavaScript](/images/javascript.png)
 
 **Contatos:**
+<div>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/izabel-soares-373b7125b)
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/izabel-souza))
+  
+</div>
