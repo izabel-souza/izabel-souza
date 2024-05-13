@@ -10,10 +10,11 @@
 ![SQL](/images/sql.png)
 ![MySQL](/images//mysql.png)
 ![Pacote Office 365](/images/office365.png)
+![VBA](/images/vba.png)
 ![HTML](/images/html.png)
 ![CSS](/images//css.png)
 ![JavaScript](/images/javascript.png)
-![VBA](image.png)
+
 
 **Contatos:**
 
