@@ -17,11 +17,6 @@
 
 
 **Contatos:**
-
-<div>
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/izabel-soares-373b7125b)
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/izabel-souza))
-
-</div>
